@@ -1,0 +1,5 @@
+
+tuplex = tuple("w3resource")
+print(tuplex)
+n to known the length of tuple
+print(len(tuplex))
